@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name:   Pharsheen Rahuman        </h3>
 <h3>Register Number/Staff Id:212224230193          </h3>
 <H3>Aim:</H3>
